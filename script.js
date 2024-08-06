@@ -34,7 +34,4 @@ function filterByName(e) {
   })
 }
 
-if (screen.width <= 1000) {
-  document.location = "https://andjkel.github.io/testing_webpage/about.html";}
-
 
